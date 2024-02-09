@@ -9,6 +9,6 @@ Ensure you have Python installed on your machine.
 
 Install required libraries using the following command:
 
-pip install openai 
-pip install webbrowser
-pip install python-dotenv
+```pip install openai```
+```pip install webbrowser```
+```pip install python-dotenv```
